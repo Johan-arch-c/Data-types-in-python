@@ -1,0 +1,9 @@
+name="johan"
+age=12
+weight=38.5
+student=True
+print(type(weight))
+weight=int(weight)
+print(weight)
+age=float(age)
+print(age)
