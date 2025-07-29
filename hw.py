@@ -1,4 +1,2 @@
-a=str(input("congrats how old are you"))
-b=a[::-1]
-a=b
-print(a)
+a=str(input("how old are you"))
+print(a.upper())
